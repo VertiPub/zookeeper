@@ -1,3 +1,5 @@
+# This repository has been archived.
+
 For the latest information about ZooKeeper, please visit our website at:
 
    http://zookeeper.apache.org/
